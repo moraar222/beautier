@@ -54,26 +54,24 @@ const Pricing = () => {
                   />
                 </div>
                 <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                  Free Plan
+                  Free Shipping
                 </p>
                 <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                   <li className="relative check custom-list my-2">
-                    Unlimited Bandwitch
+                  no hidden fees
                   </li>
                   <li className="relative check custom-list my-2">
-                    Encrypted Connection
+                  free shipping
                   </li>
                   <li className="relative check custom-list my-2">
-                    No Traffic Logs
+                   Beauty choices
                   </li>
                   <li className="relative check custom-list my-2">
                     Works on All Devices
                   </li>
                 </ul>
                 <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
-                  <p className="text-2xl text-black-600 text-center mb-4 ">
-                    Free
-                  </p>
+                  
                   <ButtonOutline>Select</ButtonOutline>
                 </div>
               </motion.div>
@@ -98,17 +96,17 @@ const Pricing = () => {
                 />
               </div>
               <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                Standard Plan{" "}
+                Advertisement{" "}
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                 <li className="relative check custom-list my-2">
-                  Unlimited Bandwitch
+                Endless beauty options
                 </li>
                 <li className="relative check custom-list my-2">
-                  Encrypted Connection
+                Secure shopping
                 </li>
                 <li className="relative check custom-list my-2">
-                  No Traffic Logs
+                Secure browsing
                 </li>
                 <li className="relative check custom-list my-2">
                   Works on All Devices
@@ -118,9 +116,7 @@ const Pricing = () => {
                 </li>
               </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
-                <p className="text-2xl text-black-600 text-center mb-4 ">
-                  $9 <span className="text-black-500">/ mo</span>
-                </p>
+               
                 <ButtonOutline>Select</ButtonOutline>
               </div>
               </motion.div>
@@ -145,32 +141,30 @@ const Pricing = () => {
                 />
               </div>
               <p className="text-lg text-black-600 font-medium capitalize my-2 sm:my-7">
-                Premium Plan{" "}
+                Beauty Products{" "}
               </p>
               <ul className="flex flex-col list-inside pl-6 xl:pl-0 items-start justify-start text-left text-black-500 flex-grow">
                 <li className="relative check custom-list my-2">
-                  Unlimited Bandwitch
+                Skincare
                 </li>
                 <li className="relative check custom-list my-2">
-                  Encrypted Connection
+                Makeup
                 </li>
                 <li className="relative check custom-list my-2">
-                  No Traffic Logs
+                Hair Care
                 </li>
                 <li className="relative check custom-list my-2">
-                  Works on All Devices
+                Body Care
                 </li>
                 <li className="relative check custom-list my-2">
-                  Connect Anyware{" "}
+                Manicure and Pedicure{" "}
                 </li>
                 <li className="relative check custom-list my-2">
                   Get New Features{" "}
                 </li>
               </ul>
               <div className="flex flex-col w-full justify-center mb-8 flex-none mt-12">
-                <p className="text-2xl text-black-600 text-center mb-4 ">
-                  $12 <span className="text-black-500">/ mo</span>
-                </p>
+                
 
                 <ButtonOutline>Select</ButtonOutline>
               </div>
@@ -183,10 +177,10 @@ const Pricing = () => {
             <motion.h3
               variants={scrollAnimation}
               className="text-2xl sm:text-3xl lg:text-4xl font-medium text-black-600 leading-relaxed w-9/12 sm:w-6/12 lg:w-4/12 mx-auto">
-              Huge Global Network of Fast VPN{" "}
+              Access beauty products worldwide{" "}
             </motion.h3>
             <motion.p className="leading-normal  mx-auto my-2 w-10/12 sm:w-7/12 lg:w-6/12" variants={scrollAnimation}>
-              See LaslesVPN everywhere to make it easier for you when you move
+              See BeautyTechies everywhere to make it easier for you when you move
               locations.
             </motion.p>
           </ScrollAnimationWrapper>

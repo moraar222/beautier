@@ -16,7 +16,7 @@ const Testimoni = ({
       country: "Poland",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "Wow... I'm thrilled with this app! It's exceeded my expectations, and everything has been flawless so far. beautyTechies is always the best.",
     },
     {
       name: "iezh Robert",
@@ -25,7 +25,16 @@ const Testimoni = ({
       country: "Poland",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "Wow... I’m so happy with this app! It’s beyond my expectations, and everything has been perfect so far. beautyTechies is simply the best!",
+    },
+    {
+      name: "iezh Robert",
+      image: "/assets/people-3.png",
+      city: "Warsaw",
+      country: "Poland",
+      rating: "4.0",
+      testimoni:
+        "Wow... I’m so happy with this app! It’s beyond my expectations, and everything has been perfect so far. beautyTechies is simply the best!",
     },
     {
       name: "iezh Robert",
@@ -34,16 +43,7 @@ const Testimoni = ({
       country: "Poland",
       rating: "4.5",
       testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
-    },
-    {
-      name: "iezh Robert",
-      image: "/assets/people-3.png",
-      city: "Warsaw",
-      country: "Poland",
-      rating: "4.5",
-      testimoni:
-        "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
+        "Wow... I’m so happy with this app! It’s beyond my expectations, and everything has been perfect so far. beautyTechies is simply the best!",
     },
   ],
 }) => {
